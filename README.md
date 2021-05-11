@@ -8,7 +8,7 @@ I love learning about U.S. History and Women's impact on Politics throughout his
 </script>
 
 # Google Virtual Tour: My Restaraunt Experience
-Working in restaraunts has shaped me as a person and so I felt it would be fitting to do a tour of the places I've grown a lot as a person. I put together a Virtual Tour of the restaraunt I currently work at. I walk you through the outside, and the bring you inside to the dining rooms, the kitchen, and the second floor. Torre has so many cool and intriguing features from the tequlia tower with 100 bottles displayed on it to the wall of authentic sugar skulls. I ended the tour at my Family's restaraunt, the LBI Pancake House, which I talked about during show and tell! 
+Working in restaraunts has shaped me as a person and so I felt it would be fitting to do a tour of the places I've grown a lot as a person. I put together a Virtual Tour of the restaraunt I currently work at. I walk you through the outside, and the bring you inside to the dining rooms, the kitchen, and the second floor. Torre has so many cool and intriguing features from the tequlia tower with 100 bottles displayed on it to the wall of authentic sugar skulls. I ended the tour at my Family's restaraunt, the LBI Pancake House, which I talked about during show and tell! Check out [Torre's](https://www.torrerestaurant.com/ "Torre") menu and their gallery for more pictures!
 <iframe width="100%" height="480px" src="https://poly.google.com/view/23E4uliuPWt/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
 # Tableau Dashboard Project: Childcare and Child Poverty 
